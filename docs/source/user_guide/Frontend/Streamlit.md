@@ -93,7 +93,7 @@ streamlit run main.py
 
 ### 添加进度条
 
-st.progress()
+**st.progress()**
 
 ![image-20221120230611150](/Users/zhouboyuan/Library/Application Support/typora-user-images/image-20221120230611150.png)
 
