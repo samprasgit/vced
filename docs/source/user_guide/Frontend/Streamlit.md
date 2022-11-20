@@ -30,6 +30,8 @@ streamlit hello
 
 如果你能正常运行并打开该网页，说明你的 Streamlit 安装成功了！
 
+![image-20221120224259079](/Users/zhouboyuan/Library/Application Support/typora-user-images/image-20221120224259079.png)
+
 ## 自由开发
 
 Streamlit 框架提供了很多 [API](https://docs.streamlit.io/library/api-reference) 供开发者使用。下面的步骤将指引你一步一步构建自己的第一个 Web App：
@@ -83,6 +85,18 @@ streamlit run main.py
 
 完整代码参见 [`hello-streamlit.py`](https://github.com/datawhalechina/vced/blob/709de9a0a0ce6a0b534c243c5bb58e00a08c6379/docs/source/user_guide/Frontend/hello-streamlit.py)
 
+### 绘制图表
+
+**st.line_chart()**方法展示图表
+
+![image-20221120225823196](/Users/zhouboyuan/Library/Application Support/typora-user-images/image-20221120225823196.png)
+
+### 添加进度条
+
+st.progress()
+
+![image-20221120230611150](/Users/zhouboyuan/Library/Application Support/typora-user-images/image-20221120230611150.png)
+
 这里只介绍了 Streamlit 的冰山一角，更多特性和细节感兴趣的同学可以去官网进一步学习。另外，官网也有很多 [Streamlit 模板](https://streamlit.io/gallery)，可以帮助你更高效地搭建自己的应用。
 
 以下即为使用流程：
@@ -92,3 +106,8 @@ streamlit run main.py
 3. 输入Top N值
 4. 点击搜索，等待返回结果
 5. 查看搜索结果
+
+## 参考
+
+[Streamlit开发手册](http://cw.hubwiz.com/card/c/streamlit-manual/)
+
