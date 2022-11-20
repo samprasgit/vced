@@ -89,13 +89,13 @@ streamlit run main.py
 
 **st.line_chart()**方法展示图表
 
-![image-20221120225823196](/Users/zhouboyuan/Library/Application Support/typora-user-images/image-20221120225823196.png)
+![image-20221120225823196](https://tva1.sinaimg.cn/large/008vxvgGly1h8c047u1cqj30q30d7q46.jpg)
 
 ### 添加进度条
 
 **st.progress()**
 
-![image-20221120230611150](/Users/zhouboyuan/Library/Application Support/typora-user-images/image-20221120230611150.png)
+![image-20221120230611150](https://tva1.sinaimg.cn/large/008vxvgGly1h8c04lw7prj30pr05hmx9.jpg)
 
 这里只介绍了 Streamlit 的冰山一角，更多特性和细节感兴趣的同学可以去官网进一步学习。另外，官网也有很多 [Streamlit 模板](https://streamlit.io/gallery)，可以帮助你更高效地搭建自己的应用。
 
